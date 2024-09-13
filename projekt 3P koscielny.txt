@@ -1,0 +1,76 @@
+
+
+4  PZW
+
+
+okregi 
+staw nr
+powierzchnia
+nontrolerzy
+ mandaty
+ryby
+gatunki
+wymiar
+data ochronna
+skladki 
+czlonkowie
+zwiazki
+placa
+zarybianie 
+ilosc kg 
+cena
+
+
+5 wojisko
+
+
+zolnier
+
+
+
+
+
+
+
+6 kopalnia
+
+
+skup wegla 
+wycieczki
+cena
+windy
+pracownicy
+surowce
+ilosc
+
+
+
+
+
+
+
+5 pkp /mzk
+
+pojazdy nr
+r.pojazdu
+miasto
+kierowca
+rozklad
+//////////
+kanar
+mandat
+/////////moze
+data 
+bilet 
+zakup biletu
+cena
+😊😊😊😊😊😊😊😊
+
+
+user 
+klient 
+kierowca
+
+
+
+
